@@ -1,4 +1,4 @@
-<h1 align="center">Cloned this repository from pythonlessons that come from official creators and edited 2 python scripts
+<h1 align="center">Cloned this repository from pythonlessons that came from official creators and edited 2 python scripts
 :</h1>
 <b>oid_to_pascal_voc_xml.py</b><br>
 <b>voc_to_YOLOv3.py</b><br><br>
